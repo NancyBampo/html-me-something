@@ -1,0 +1,34 @@
+body{
+    font-family: "Apple Chancery", cursive ;
+    background-color: snow;
+    text-align: center;
+    border: 3px solid green;
+    padding: 20px;
+}
+    .header{
+        padding: 30px;
+        font-size: 40px;
+        color: snow;
+        text-align: center;
+        background-image: url("./images/christmasbackground.jpg"); 
+        background-blend-mode: normal;
+        background-color: snow;
+        height: 250px;
+        background-position: center; 
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+
+    img{
+        border-radius: 8px;
+        width: 60%;
+        height: 20%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    ul{
+        list-style-position: inside;
+
+    }
