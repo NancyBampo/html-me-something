@@ -18,6 +18,12 @@ body{
         background-repeat: no-repeat;
         background-size: cover;
     }
+
+    #myHeader{
+        color: purple;
+        padding: 40px;
+        text-align: center;
+    }
     
 
     img{
